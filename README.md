@@ -1,3 +1,14 @@
+# Explore on GATEWAY API Advanced Topics
+
+✅ LOAD BALANCING AND ROUTING
+✅ OAuth2
+✅ REFRESH TOKENS CONCEPT
+✅ API RATE LIMITING
+✅ USER DATA MANGEMENT WITH BCryptEncryption
+✅ FAULT TOLERANCE
+
+---
+
 # 🔐 Part 1: Authentication vs Authorization
 
 | **Term**           | **What it means**                                                            |
@@ -107,6 +118,7 @@ Client uses the token to access APIs (instead of credentials).
 
 ---
 # 🙌 Conclusion
+
 ✅ OAuth2 = Authorization framework
 
 ✅ OIDC = Authentication protocol (built on OAuth2)
