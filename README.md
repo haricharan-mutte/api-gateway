@@ -6,6 +6,12 @@
 | **Authorization**  | Verifying **what you're allowed to do** (roles, permissions, access control) |
 
 ---
+# 🔐 Now Let’s Understand: What is OAuth 2.0?
+OAuth 2.0 is an authorization framework. That means:
+
+🎯 It allows one system (client) to get permission (authorization) to access user data from another system (resource server) — without ever seeing the user's password.
+
+---
 
 # 🧱 Part 2: Common Authentication Methods
 
