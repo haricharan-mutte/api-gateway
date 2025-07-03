@@ -85,3 +85,17 @@ Client uses the token to access APIs (instead of credentials).
 | 5. Build a demo with Keycloak             | Auth Service + Gateway + Resource Server                   |
 | 6. Authorization Code Flow hands-on       | Using Postman or browser redirect flow                     |
 
+---
+# 🙌 Conclusion
+✅ OAuth2 = Authorization framework
+
+✅ OIDC = Authentication protocol (built on OAuth2)
+
+✅ SSO = Login once, access many apps (uses OIDC/SAML)
+
+✅ id_token = Identity info (Authentication)
+
+✅ access_token = Access permission (Authorization)
+
+---
+
