@@ -37,6 +37,20 @@ OAuth 2.0 is an authorization framework. That means:
 
 ---
 
+# 🔐 Core Concepts in Authentication & Authorization
+
+| Term                     | Description                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Authentication**       | Verifying the identity of a user (e.g., login with username/password).                                 |
+| **Authorization**        | Granting access to specific resources based on roles/permissions.                                      |
+| **Token**                | A credential (usually JWT) that represents an authenticated session or access right.                   |
+| **Resource Owner**       | The user who owns the data or account.                                                                 |
+| **Client**               | The app requesting access (e.g., frontend, mobile app).                                                |
+| **Authorization Server** | The server that authenticates the user and issues tokens (e.g., Keycloak, Auth0, custom auth service). |
+| **Resource Server**      | The API server that hosts protected data (e.g., user-service, order-service).                          |
+
+---
+
 # 🌐 Part 4: OAuth2 – High-Level Idea
 
 Why OAuth2 was invented:
